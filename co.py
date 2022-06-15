@@ -1,3 +1,5 @@
+
+##File name is change it's co.py not network.py####
 import network
 def do_connect():
     wlan = network.WLAN(network.STA_IF)
